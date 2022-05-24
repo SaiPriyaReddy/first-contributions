@@ -1,4 +1,4 @@
-# **Contributors**
+﻿# **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
@@ -448,6 +448,7 @@ Nicholaus Michael
 - [Minh Nguyen] (https://github.com/minhducnguyen26)
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
+- [Sai Priya]
 - [Andre Morales] (https://github.com/dremo1995)
 - [Omar Shehata](https://github.com/OIS202)
 - [Prem Sagar Kushwaha](https://github.com/premsagarkushwaha)
